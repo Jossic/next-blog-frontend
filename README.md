@@ -1,0 +1,1 @@
+##Dans le dossier frontend npm install next react react-dom reactstrap react react-dom isomorphic-fetch js-cookie nprogress @zeit/next-css react-quill moment react-render-html query-string prop-types jsonwebtoken react-google-login
